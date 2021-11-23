@@ -1,1 +1,0 @@
-You have to download all the files for Munk Studio-AE to work properly
